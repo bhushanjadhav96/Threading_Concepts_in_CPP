@@ -3,6 +3,7 @@ To understand threading concept in Cpp.
 
 Every application there is one thread which is the main thread.
 
+
 Thread is a light weight process.
 
 Threading is used to achieve parallelism by dividing the process into multiple threads.
